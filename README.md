@@ -49,7 +49,7 @@ And what not?
 
 [linkedin]: https://www.linkedin.com/in/lakshya-karwa-4a772a192/
 [twitter]: https://twitter.com/laksxhya
-[gmail]: lakshyak10@gmail.com
+[gmail]: mailto:lakshyak10@gmail.com
 
 
 
