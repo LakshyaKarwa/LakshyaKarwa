@@ -3,8 +3,10 @@
 <h1 align="left">I'm Lakshya Karwa!</h1>
 
 
-### Interested in 
+### Interested in
+* Systems
 * Machine Learning
+* Software Engg.
 * Deep Learning
 * Natural Language Processing 
 * Statistics
@@ -13,8 +15,10 @@
 
 
 ### Work experience
-Interned @XensAI as Junior RPA devoloper
-<br> Interned @Universiti Malaya as a Research intern
+Junior Devoloper at XensAI
+<br> Research Intern at Universiti Malaya, Kuala Lumpur, Malaysia
+<br> Research Intern at DREAM:LAB, IISc, Bengaluru (Distributed Research in Emerging Applications and Machines)
+<br> Current Visiting Researcher at UBC, British Columbia, Canada 
 
 ### About Me 
 
@@ -47,7 +51,7 @@ And what not?
 
 <hr>
 
-[linkedin]: https://www.linkedin.com/in/lakshya-karwa-4a772a192/
+[linkedin]: https://www.linkedin.com/in/lakshyakarwa
 [twitter]: https://twitter.com/laksxhya
 [gmail]: mailto:lakshyak10@gmail.com
 
