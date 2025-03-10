@@ -18,7 +18,8 @@
 Junior Devoloper at XensAI
 <br> Research Intern at Universiti Malaya, Kuala Lumpur, Malaysia
 <br> Research Intern at DREAM:LAB, IISc, Bengaluru (Distributed Research in Emerging Applications and Machines)
-<br> Current Visiting Researcher at UBC, British Columbia, Canada 
+<br> Visiting Researcher at UBC, British Columbia, Canada 
+<br> Engineer at Qualcomm
 
 ### About Me 
 
